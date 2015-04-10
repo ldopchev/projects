@@ -1,0 +1,2 @@
+This program uses MySql database as a backend and Java 7, so JDBC ODBC connectivity works fine. 
+I put the testBackup.sql in the folder for you so you can run it, please make sure, to change the user and root in the java code so you can connect, it is in the MyPanel.java file.
